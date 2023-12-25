@@ -1,0 +1,6 @@
+name,price,category,stockQuantity,isHot
+alomndCroissant1,3,croissant,10,false
+alomndCroissant2,3,croissant,10,true
+chocoCroissant1,2.5,croissant,10,false
+chocoCroissant2,2.5,croissant,10,true
+c,2.5,chocoCroissant,10,false

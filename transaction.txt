@@ -1,0 +1,7 @@
+product,quantity,date,transactionType,objectType,unitprice,purchasePrice
+americano1,2,2023-10-15,S,Beverage,1.5,1.0
+chocoCroissant2,10,2023-10-15,P,Pasteries,2.5,2.0
+americano1,1,2021-10-01,S,Beverage,1.5,1.0
+americano1,4,2021-11-01,P,Beverage,1.5,1.0
+alomndCroissant1,4,2023-11-15,S,Pasteries,3,2.5
+chocoCroissant2,10,2020-11-11,S,Pasteries,2.5,2

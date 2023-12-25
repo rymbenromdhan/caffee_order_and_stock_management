@@ -1,0 +1,11 @@
+americano2,the product is :americano2,it is not sweetened, it will be of a size2
+americano1,the product is :americano1,it is not sweetened, it will be of a size1
+alomndCroissant2,The alomndCroissant2 will be served hot 
+americano4,the product is :americano4,it is sweetened, it will be of a size1
+alomndCroissant1,The alomndCroissant1 will be served cold 
+americano3,the product is :americano3,it is not sweetened, it will be of a size3
+americano6,the product is :americano6,it is sweetened, it will be of a size3
+americano5,the product is :americano5,it is sweetened, it will be of a size2
+chocoCroissant2,The chocoCroissant2 will be served hot 
+latte1,the product is :latte1,it is not sweetened, it will be of a size2
+chocoCroissant1,The chocoCroissant1 will be served cold 

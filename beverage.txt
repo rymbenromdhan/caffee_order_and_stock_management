@@ -1,0 +1,7 @@
+name,price,category,stockQuantity,size,isSweet
+americano1,1.5,americano,5,1,false
+americano2,2,americano,5,2,false
+americano3,2.5,americano,5,3,false
+americano4,1.5,americano,5,1,true
+americano5,2,americano,5,2,true
+americano6,2.5,americano,5,3,true
